@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "781F068C-9F8B-4A07-B096-EBF241D1F563"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9ED5FFC2-9344-42FF-BB7B-5417B211C5EA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PrivieLegius/AdviceCardCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "cardView"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "9ED5FFC2-9344-42FF-BB7B-5417B211C5EA - 926d57a36bd826e2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PrivieLegius.AdviceCardCell.cardView.getter : __C.UIView"
+                  moduleName = "PrivieLegius"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/raul.santos/Desktop/Firebase/PrivieLegius/PrivieLegius/AdviceCardCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "162">
+               </Location>
+               <Location
+                  uuid = "9ED5FFC2-9344-42FF-BB7B-5417B211C5EA - 55760b7cdef50eee"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PrivieLegius.AdviceCardCell.cardView.setter : __C.UIView"
+                  moduleName = "PrivieLegius"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/raul.santos/Desktop/Firebase/PrivieLegius/PrivieLegius/AdviceCardCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "132">
+               </Location>
+               <Location
+                  uuid = "9ED5FFC2-9344-42FF-BB7B-5417B211C5EA - 29d315ba3c2dc4ec"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; __C.UIView in PrivieLegius.AdviceCardCell.cardView.getter : __C.UIView"
+                  moduleName = "PrivieLegius"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/raul.santos/Desktop/Firebase/PrivieLegius/PrivieLegius/AdviceCardCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "29">
+               </Location>
+               <Location
+                  uuid = "9ED5FFC2-9344-42FF-BB7B-5417B211C5EA - 38357dc0d4380c1f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PrivieLegius.AdviceCardCell.cardView.modify : __C.UIView"
+                  moduleName = "PrivieLegius"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/raul.santos/Desktop/Firebase/PrivieLegius/PrivieLegius/AdviceCardCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "9ED5FFC2-9344-42FF-BB7B-5417B211C5EA - f0d30ea3be3f6aee"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PrivieLegius.AdviceCardCell.cardView.modify : __C.UIView with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "PrivieLegius"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/raul.santos/Desktop/Firebase/PrivieLegius/PrivieLegius/AdviceCardCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "17">
+               </Location>
+               <Location
+                  uuid = "9ED5FFC2-9344-42FF-BB7B-5417B211C5EA - 5a73c0fef5e997b4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PrivieLegius.AdviceCardCell.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; PrivieLegius.AdviceCardCell"
+                  moduleName = "PrivieLegius"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/raul.santos/Desktop/Firebase/PrivieLegius/PrivieLegius/AdviceCardCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "135">
+               </Location>
+               <Location
+                  uuid = "9ED5FFC2-9344-42FF-BB7B-5417B211C5EA - da955ef969771d8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PrivieLegius.AdviceCardCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;PrivieLegius.AdviceCardCell&gt;"
+                  moduleName = "PrivieLegius"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/raul.santos/Desktop/Firebase/PrivieLegius/PrivieLegius/AdviceCardCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "74">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.SymbolicBreakpoint">
+         <BreakpointContent
+            uuid = "1CE463B0-E310-437F-835F-02562037356E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            symbolName = ""
+            moduleName = "">
+            <Locations>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3C6A3B15-71CF-462C-B173-13B4801A63AB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PrivieLegius/MainCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "showChat()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C4A64B24-879D-4009-8764-1A128756C201"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PrivieLegius/DataBase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "getUserInfo(with:onSucess:onError:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EE7B2BF0-E963-41AF-ACA6-DC114C45789D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PrivieLegius/Controller/ChatViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "bind()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B2D45B3A-8A78-4CDE-AAA6-E3C42BFEA19D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PrivieLegius/SignUpViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "registrar(firstName:lastName:email:senha:confirmarSenha:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A6F5B571-0E4B-4F42-9B3C-EC5FE082F8DC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PrivieLegius/SignUpViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "registrar(firstName:lastName:email:senha:confirmarSenha:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F5D7B69C-F2F8-47F5-9094-1A6D5AACA00C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PrivieLegius/LoginViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
+            landmarkName = "getUserName"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

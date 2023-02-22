@@ -9,12 +9,10 @@ import Foundation
 import UIKit
 
  class HomeFactory: NSObject {
-    
-    class func build(coordinator: MainCoordinator) -> ChatViewController {
+    class func build(coordinator: MainCoordinator) -> HomeViewController {
+        let model = HomeViewModel()
         
-        let model = ChatViewModel()
-        return ChatViewController(viewModel: model)
-        
+        return HomeViewController(viewModel: model)
     }
     
 }

@@ -5,3 +5,10 @@
   Created by raul.santos on 03/11/22.
   
 */
+
+
+"resetPassword" = "Verifique seu email";
+
+"wrongEmail" = "email não consta no BD";
+
+"emptyField" = "O campo está vazio";

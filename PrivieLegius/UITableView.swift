@@ -6,3 +6,12 @@
 //
 
 import Foundation
+import UIKit
+
+extension UITableView {
+    func register(cellClass: AnyClass) {
+        let classNameString: String = String(describing: cellClass.self)
+        register(cellClass.self, forCellReuseIdentifier: classNameString)
+    }
+    
+}
